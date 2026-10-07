@@ -310,23 +310,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\nathano\\.nuget\\packages\\": {},
+    "C:\\Users\\rushworth\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nathano\\OneDrive - Resilience Multi Academy Trust\\A-Level\\Computer Science\\Monogame\\MyGame\\MyGame.csproj",
+      "projectUniqueName": "c:\\Users\\rushworth\\Desktop\\asterois\\MyGame\\Asteroids-Monogame\\MyGame.csproj",
       "projectName": "MyGame",
-      "projectPath": "C:\\Users\\nathano\\OneDrive - Resilience Multi Academy Trust\\A-Level\\Computer Science\\Monogame\\MyGame\\MyGame.csproj",
-      "packagesPath": "C:\\Users\\nathano\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nathano\\OneDrive - Resilience Multi Academy Trust\\A-Level\\Computer Science\\Monogame\\MyGame\\obj\\",
+      "projectPath": "c:\\Users\\rushworth\\Desktop\\asterois\\MyGame\\Asteroids-Monogame\\MyGame.csproj",
+      "packagesPath": "C:\\Users\\rushworth\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\rushworth\\Desktop\\asterois\\MyGame\\Asteroids-Monogame\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\nathano\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\rushworth\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

@@ -60,7 +60,7 @@ public class Game1 : Game
     {
         Color Colour = new Color(red, green, blue);
 
-        GraphicsDevice.Clear(Colour);
+        GraphicsDevice.Clear(Color.Black);
 
         // TODO: Add your drawing code here
 
